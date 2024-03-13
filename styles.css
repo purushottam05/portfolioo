@@ -127,7 +127,7 @@ hr {
 
 .footer {
     background-color: var(--primary-color);
-    padding: 4rem 1rem;
+    padding: 2rem 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
@@ -176,7 +176,7 @@ hr {
 #cpp {width: 50%; background-color: #f44336;} 
 #nodejs {width: 75%; background-color: #f44336;} 
 #html {width: 90%; background-color: #008080;} 
-#mongodb {width: 50%; background-color: #800080;}
+#mongodb {width: 65%; background-color: #800080;}
 
 ul {
     list-style-type: disc;
